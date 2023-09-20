@@ -27,7 +27,7 @@ title: 免疫とは——免疫を受け持つ細胞
 好中球とマクロファージは細菌やカビを貪食して殺します。
 マクロファージが処理しきれない場合は、リンパ球のT細胞に連絡し、キラーT細胞やB細胞の抗体が戦いに参加します。ナチュラルキラー(nk)細胞は、常に体内を巡回監視してガン細胞やウイルス感染細胞を見つけて殺します。
 
-![免疫を受け持つ代表的な細胞](ketuekis.gif)
+![免疫を受け持つ代表的な細胞](/images/atopic/ketuekis.gif)
 
 ## 免疫を低下させる原因は{#mentei}
 
@@ -171,15 +171,15 @@ title: 免疫とは——免疫を受け持つ細胞
 
 ### Th1応答を高め、Th2応答を抑えるには{}
 
-![](Th1Th2barance.gif)
+![](/images/atopic/Th1Th2barance.gif)
 
 ## 免疫基本応答図{}
 
-![](menekikihon.gif)
+![](/images/atopic/menekikihon.gif)
 
 ## 免疫応答図{#zuhyou}
 
-![](meneki3.gif)
+![](/images/atopic/meneki3.gif)
 
 ## ベータグルカンと免疫細胞(図表、仮説){}
 
@@ -192,10 +192,10 @@ title: 免疫とは——免疫を受け持つ細胞
 
 ## ベータグルカンと免疫細胞{#beta-glucan}
 
-![](meneki70.gif)
+![](/images/atopic/meneki70.gif)
 
 ## ウイルス感染免疫応答の経過図表{#virus}
 
-![](menou1.gif)
+![](/images/atopic/menou1.gif)
 
-![](menou2.gif)
+![](/images/atopic/menou2.gif)

@@ -6,15 +6,15 @@ title: 2004世界らん展７
 
 カトレア１
 
-6![](/image/flowers/1katoreaki4.jpg)
-5![](/image/flowers/1katoreaki3.jpg)
-20![](/image/flowers/58catyg.jpg)
+6![](/images/photos/flowers/1katoreaki4.jpg)
+5![](/images/photos/flowers/1katoreaki3.jpg)
+20![](/images/photos/flowers/58catyg.jpg)
 　
 
-25![](66caty.jpg)
-1![](/image/flowers/11catsyou.jpg)
-23![](64catyr.jpg)
-3![](/image/flowers/19catsyou.jpg)
-11![](1katoreasiromura.jpg)
-10![](1katoreasirogun.jpg)
-28![](8catsiro.jpg)
+25![](/images/photos/flowers/66caty.jpg)
+1![](/images/photos/flowers/11catsyou.jpg)
+23![](/images/photos/flowers/64catyr.jpg)
+3![](/images/photos/flowers/19catsyou.jpg)
+11![](/images/photos/flowers/1katoreasiromura.jpg)
+10![](/images/photos/flowers/1katoreasirogun.jpg)
+28![](/images/photos/flowers/8catsiro.jpg)

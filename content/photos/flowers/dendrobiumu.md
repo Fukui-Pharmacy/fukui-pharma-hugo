@@ -7,16 +7,16 @@ title: 2004世界らん展７
 
 デンドロビウム
 
-![](/image/flowers/13nihontaisou.jpg)
-![](/image/flowers/120odmyg.jpg)
-![](/image/flowers/1denkigun.jpg)
-![](/image/flowers/1denkigun3.jpg)
-![](1denndorokigun.jpg)
-![](/image/flowers/122denw.jpg)
-![](/image/flowers/123odmwg.jpg)
-![](87denwg.jpg)
-![](/image/flowers/23denwg.jpg)
+![](/images/photos/flowers/13nihontaisou.jpg)
+![](/images/photos/flowers/120odmyg.jpg)
+![](/images/photos/flowers/1denkigun.jpg)
+![](/images/photos/flowers/1denkigun3.jpg)
+![](/images/photos/flowers/1denndorokigun.jpg)
+![](/images/photos/flowers/122denw.jpg)
+![](/images/photos/flowers/123odmwg.jpg)
+![](/images/photos/flowers/87denwg.jpg)
+![](/images/photos/flowers/23denwg.jpg)
 　
 
-![](dentyahu.jpg)
-![](71denyg.jpg)
+![](/images/photos/flowers/dentyahu.jpg)
+![](/images/photos/flowers/71denyg.jpg)

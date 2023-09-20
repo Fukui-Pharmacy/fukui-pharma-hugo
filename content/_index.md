@@ -131,6 +131,6 @@ title: 'トップ'
   {{< amazon asin="4621301306" bookTitle="薬剤師がすすめるビタミン・ミネラルの使い方(第2版)" >}}
 - 平成13年10月第2版 丸善
 - [目次](/books/mokuzitu/)
-- [![](betasin.gif)](/supliments/beta-glucan.md) ベータグルカン　免疫の栄養 (酵母食品)
+- [![](images/supliments/betasin.gif)](/supliments/beta-glucan.md) ベータグルカン　免疫の栄養 (酵母食品)
   - 30カプセル7500円
   - 100カプセル22500円

@@ -7,24 +7,24 @@ title: 2004世界らん展７
 
 パフィオペディラム
 
-![](/image/flowers/a2opa2s.jpg)
-![](/image/flowers/a2opamsmf.jpg)
-![](/image/flowers/b2opagth.jpg)
-![](/image/flowers/b2opagts2.jpg)
+![](/images/photos/flowers/a2opa2s.jpg)
+![](/images/photos/flowers/a2opamsmf.jpg)
+![](/images/photos/flowers/b2opagth.jpg)
+![](/images/photos/flowers/b2opagts2.jpg)
 　
 
-![](/image/flowers/b2opawgs.jpg)
+![](/images/photos/flowers/b2opawgs.jpg)
 　
-![](/image/flowers/a2opawt.jpg)
-![](/image/flowers/a2opawug.jpg)
-![](/image/flowers/a2opayt.jpg)
-![](/image/flowers/b2opawut.jpg)
-![](/image/flowers/b2opaugy.jpg)
-![](/image/flowers/b2opaygth.jpg)
-　
-
-![](/image/flowers/b2opaums.jpg)
+![](/images/photos/flowers/a2opawt.jpg)
+![](/images/photos/flowers/a2opawug.jpg)
+![](/images/photos/flowers/a2opayt.jpg)
+![](/images/photos/flowers/b2opawut.jpg)
+![](/images/photos/flowers/b2opaugy.jpg)
+![](/images/photos/flowers/b2opaygth.jpg)
 　
 
-![](b2opawgh.jpg)
-![](b2opsgwh.jpg)
+![](/images/photos/flowers/b2opaums.jpg)
+　
+
+![](/images/photos/flowers/b2opawgh.jpg)
+![](/images/photos/flowers/b2opsgwh.jpg)

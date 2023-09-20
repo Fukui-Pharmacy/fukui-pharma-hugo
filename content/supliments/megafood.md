@@ -4,7 +4,7 @@ title: メガフードアルファ(酵母加工食品)
 
 # メガフードアルファ(酵母加工食品)
 
-![](mega10s.gif)
+![](/images/supliments/mega10s.gif)
 
 製造発売元 BioSan Labo, Inc., USA
 輸入発売元 株式会社 シェルライフジャパン
@@ -62,7 +62,7 @@ title: メガフードアルファ(酵母加工食品)
 
 ## アメリカ版の Mega Food Alha メガフードアルファ
 
-![アメリカの MegaFoodAlha](megaalph.gif)
+![アメリカの MegaFoodAlha](/images/supliments/megaalph.gif)
 
 製造発売元 BioSan Labs. Inc., USA
 

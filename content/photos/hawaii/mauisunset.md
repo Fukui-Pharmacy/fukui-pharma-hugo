@@ -6,11 +6,11 @@ title: マウイ島カアナパリのサンセット
 
 <FONT SIZE="3" color="red">
 マウイ島カアナパリのサンセット
-![](mauisunset.jpg)
+![](/images/photos/hawaii/mauisunset.jpg)
 
 マウイ島カアナパリの虹
-![](mauinizi.jpg)
+![](/images/photos/hawaii/mauinizi.jpg)
 
 マウイ島カアナパリの夕暮れ</FONT>
-![](kanapaliyugure.jpg)
+![](/images/photos/hawaii/kanapaliyugure.jpg)
 

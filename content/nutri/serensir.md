@@ -21,13 +21,13 @@ title: 活性酸素(フリーラジカル)とセレン
 
 ## セレンはどんな症状で有効に働くか{#serentuk}
 
-![セレンはどんな症状で有効に働くか](serenhat.gif)
+![セレンはどんな症状で有効に働くか](/images/nutri/serenhat.gif)
 
-![](serentuka.gif)
+![](/images/nutri/serentuka.gif)
 
 ## 活性酸素の発生と消去{#furiiraz}
 
-![](furiiraz.gif)
+![](/images/nutri/furiiraz.gif)
 
 ## 活性酸素のお話{#katsanso}
 
@@ -72,4 +72,4 @@ GPXはさらに大切な働きをしています。
 
 ## 活性酸素の生成変換の分子図表{#kousanka}
 
-![活性酸素の生成変換の分子図表](kasseisa.gif)
+![活性酸素の生成変換の分子図表](/images/nutri/kasseisa.gif)

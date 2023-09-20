@@ -6,16 +6,16 @@ title: 2004世界らん展７
 
 シンビ、マスダ、フラグ
 
-4![](/image/flowers/106cymkaizyou.jpg)
-3![](/image/flowers/105cymyg.jpg)
-5![](/image/flowers/109cymyg.jpg)
-6![](/image/flowers/110cymwg.jpg)
-12![](1dorakurabeni.jpg)
-14![](1masudatya.jpg)
-15![](/image/flowers/1masudeki.jpg)
+4![](/images/photos/flowers/106cymkaizyou.jpg)
+3![](/images/photos/flowers/105cymyg.jpg)
+5![](/images/photos/flowers/109cymyg.jpg)
+6![](/images/photos/flowers/110cymwg.jpg)
+12![](/images/photos/flowers/1dorakurabeni.jpg)
+14![](/images/photos/flowers/1masudatya.jpg)
+15![](/images/photos/flowers/1masudeki.jpg)
 　
 
-21![](69mastg.jpg)
-23![](68masdyg.jpg)
-9![](13paphr.jpg)
-10![](14paphr.jpg)
+21![](/images/photos/flowers/69mastg.jpg)
+23![](/images/photos/flowers/68masdyg.jpg)
+9![](/images/photos/flowers/13paphr.jpg)
+10![](/images/photos/flowers/14paphr.jpg)

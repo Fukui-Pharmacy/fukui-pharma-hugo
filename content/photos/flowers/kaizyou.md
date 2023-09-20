@@ -8,16 +8,16 @@ title: 2005世界らん展
 ２００５世界ラン展
 日本大賞はデンドロビウム
 
-![](13nihontaisou.jpg)
-![](/image/flowers/1taisyou2.jpg)
-![](/image/flowers/2hanadokei2.jpg)
-![](/image/flowers/2kazari2.jpg)
-![](/image/flowers/2kazari3.jpg)
+![](/images/photos/flowers/13nihontaisou.jpg)
+![](/images/photos/flowers/1taisyou2.jpg)
+![](/images/photos/flowers/2hanadokei2.jpg)
+![](/images/photos/flowers/2kazari2.jpg)
+![](/images/photos/flowers/2kazari3.jpg)
 　
-![](2kazari4.jpg)
-![](2kazari5.jpg)
-![](/image/flowers/2kazari6.jpg)
+![](/images/photos/flowers/2kazari4.jpg)
+![](/images/photos/flowers/2kazari5.jpg)
+![](/images/photos/flowers/2kazari6.jpg)
 　
-![](45kazarihina.jpg)
-![](/image/flowers/1pharenoaka.jpg)
-![](/image/flowers/22symsyou.jpg)
+![](/images/photos/flowers/45kazarihina.jpg)
+![](/images/photos/flowers/1pharenoaka.jpg)
+![](/images/photos/flowers/22symsyou.jpg)

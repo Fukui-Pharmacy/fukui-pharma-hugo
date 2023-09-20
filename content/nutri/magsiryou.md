@@ -9,13 +9,13 @@ title: マグネシウムの働き
 - [マグネシウムは体内でどのように働くか](/nutri/magsiryou/#maghata)
 - [マグネシウムはどんな時に有用か](/nutri/magsiryou/#magtukai)
 
-![](maghana.gif)
+![](/images/nutri/maghana.gif)
 
 ## マグネシウムは体内でどのように働くか{#maghata}
 
-![](maghata.gif)
+![](/images/nutri/maghata.gif)
 
 ## マグネシウムはどんな時に有用か{#magtukai}
 
-![](magtukai.gif)
+![](/images/nutri/magtukai.gif)
 

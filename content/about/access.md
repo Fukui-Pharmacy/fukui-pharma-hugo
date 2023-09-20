@@ -23,23 +23,23 @@ JR京浜東北線 川口駅下車(東京駅から25分)、改札口を出て右�
 1. 陸橋の右側にバス乗り場の表示があります
 1. 「川01東領家循環」の掲示板のある階段を下ります
 1. 乗り場は先の方です。車両の表示は「川01番-東領家循環」
-    ![川口駅バス乗り場](kawaguchibasu.jpg)
-    ![](kawagutieki.gif)
+    ![川口駅バス乗り場](/images/about/kawaguchibasu.jpg)
+    ![](/images/about/kawagutieki.gif)
 1. 川口駅東口(かわぐちえきひがしぐち) 停留所から「川02系統 東領家循環」にお乗りいただいて下車は「領家小学校裏」です
 1. 信号のある十字路(河合病院手前)を左折、2本目の十字路を左へ、くすりの看板がでています、徒歩5分ほどです
 
-![福井薬局地図](hukuiyakyokutizu.gif)
+![福井薬局地図](/images/about/hukuiyakyokutizu.gif)
 
 領家3丁目の商店街です
 
-![領家3丁目商店街](syoutengai2.jpg)
+![領家3丁目商店街](/images/about/syoutengai2.jpg)
 
 福井薬局外観
 
-![福井薬局外観](fukuiyakyoku.jpg)
+![福井薬局外観](/images/about/fukuiyakyoku.jpg)
 
 ## 東京方面から車でご来店の場合
 
-![付近の道路地図](ryoukedouro.gif)
+![付近の道路地図](/images/about/ryoukedouro.gif)
 
 環状七号線の鹿浜交差点を川口方面に曲がって、直進約数分ほどで、左側に河合病院があります、信号のある交差点を左折、2本目の十字路を左に曲がりすぐです

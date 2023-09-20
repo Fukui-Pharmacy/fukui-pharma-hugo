@@ -7,7 +7,7 @@ title: 書籍『薬剤師がすすめるビタミン・ミネラルの使い方(
 <CENTER>
 <TABLE>
 <TR><TD align="center">
-![](tukaikata3.gif)
+![](/images/books/tukaikata3.gif)
 </TD> <TD ALIGN=RIGHT>
 
 </TD></TR>

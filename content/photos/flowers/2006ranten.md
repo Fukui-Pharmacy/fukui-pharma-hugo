@@ -6,14 +6,14 @@ title: ２００６らん展
 <FONT SIZE="3" color="red">
 大賞はマスデバリア
 
-![](6taisyou.jpg)
-![](P2180376.jpg)
-![](P2180375.jpg)
-![](P2250002.jpg)
+![](/images/photos/flowers/6taisyou.jpg)
+![](/images/photos/flowers/P2180376.jpg)
+![](/images/photos/flowers/P2180375.jpg)
+![](/images/photos/flowers/P2250002.jpg)
 
 
-![](P2250010.jpg)
-![](P2250012.jpg)
+![](/images/photos/flowers/P2250010.jpg)
+![](/images/photos/flowers/P2250012.jpg)
 
-![](P2250014.jpg)
+![](/images/photos/flowers/P2250014.jpg)
 

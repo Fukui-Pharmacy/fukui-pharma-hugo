@@ -6,5 +6,5 @@ title: オアフ島ハナウマ湾全景
 <FONT SIZE="3" color="red">
 オアフ島ハナウマ湾全景</FONT>
 
-![](hanaumabay.jpg)
+![](/images/photos/hawaii/hanaumabay.jpg)
 
