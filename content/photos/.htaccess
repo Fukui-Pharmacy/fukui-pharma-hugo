@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^fukui\.s1001\.xrea\.com$ [NC,L]
+RewriteRule ^(.*)$ https://fukui-pharma.com%{REQUEST_URI} [R=301,L]
+</IfModule>
