@@ -1,0 +1,17 @@
+{{- $tag := .Site.Params.amazonJpAffiliate }}
+{{- $asin := .Get "asin" -}}
+{{- $bookTitle := .Get "bookTitle" -}}
+<div class="amazon-widget">
+  <div class="amazon-img">
+    <img src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN={{ $asin }}&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL350_&tag={{ $tag }}" />
+  </div>
+  <div class="amazon-info">
+    <span class="amazon-info-title">
+      {{ $bookTitle }}
+    </span>
+    <span class="amazon-info-via">
+      <img src="https://www.amazon.co.jp/favicon.ico" class="amazon-info-via-img">
+      Amazon.co.jp
+    </span>
+  </div>
+</div>

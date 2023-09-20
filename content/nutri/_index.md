@@ -1,0 +1,50 @@
+---
+title: ビタミン・ミネラル
+menuTitle: 'ビタミン・ミネラルの働き'
+url: '/nutri/'
+weight: 10
+---
+
+1. **健康を維持**したり、**病気の回復**にはなぜ[ビタミン・ミネラルが必要](/nutri/vitasi2/)なのでしょうか？
+1. 体内の**代謝の潤滑油**と言われる[ビタミン・ミネラルの働き](/nutri/vitasi4/)とは
+1. ビタミン、ミネラルの不足症状と、[**症状改善に**選びたい栄養素](/nutri/eiyou/)
+1. ビタミン、ミネラルの豊富な[食品を選ぶ](/nutri/eiyouso/)
+1. ビタミン、ミネラルの不足症状、含有食品グラフなど
+    - 『薬剤師がすすめるビタミン・ミネラルのとり方』([目次](/nutri/mokuzito/)、[Amazon](https://www.amazon.co.jp/dp/4621083074))を参照
+1. サプリメントとして、ビタミンやミネラルを摂りたい症状など
+    - 『薬剤師がすすめるビタミン・ミネラルの使い方(第2版)』([目次](/nutri/mokuzitu/)、[Amazon](https://www.amazon.co.jp/dp/4621301306/))を参照
+1. お薦めサプリメント
+    - 免疫の栄養、パン酵母成分[ベータグルカン](/beta-glucanta-glucan/)(栄養補助食品)
+1. 体内の活性酸素
+    1. [活性酸素(フリーラジカル)が老化や生活習慣病の原因に？](/nutri/kousanka/)
+    1. [フリーラジカルと活性酸素](/nutri/kousanka/#hyou)
+    1. [体内抗酸化物質がなぜ消耗するのか](/nutri/kousanka/#heru)
+    1. [活性酸素の生成と消去の図表](/nutri/kousanka/#zuhyou)
+    1. [分子で示す活性酸素の生成と変換](/nutri/kousanka/#zuhyou2)
+1. 免疫応答
+    1. [免疫とは、免疫を受け持つ細胞](/nutri/meneki/)
+    1. [血液中の細胞、図表](/nutri/meneki/#ketueki)
+    1. [免疫低下の原因](/nutri/meneki/#mentei)
+    1. [免疫を高めるには](/nutri/meneki/#mentei)
+    1. [免疫の働きとビタミン](/nutri/meneki/#menbita)
+    1. [ヘルパーT1とヘルパーT2のバランス](/nutri/meneki/#Th1Th2)
+    1. [Th1を高めTh2を抑える図表](/nutri/meneki/#Th1Th2p)
+    1. [免疫基本応答の図表](/nutri/meneki/#menoukihon)
+    1. [免疫応答の図表](/nutri/meneki/#menoutou)
+    1. [ベータグルカンと免疫細胞及び図表](/nutri/meneki/#beta-glucantaguru)
+    1. [ウイルス感染免疫応答の経過図表](/nutri/meneki/#menkei)
+1. アトピー性皮膚炎
+    - [アトピー性皮膚炎の特徴](/nutri/atopic/#atopi1)
+    - [粘膜と皮膚の不調](/nutri/atopic/#atopi2)
+    - [消化不十分の蛋白質が抗原となりやすい](/nutri/atopic/#atopi3)
+    - [免疫の不調](/nutri/atopic/#atopi4)
+    - [マクロファージの活性化](/nutri/atopic/#atopi5)
+    - [プロスタグランジンE2を減らす](/nutri/atopic/#atopi6)
+    - [プロスタグランジンE3を増やす](/nutri/atopic/#atopi7)
+    - [砂糖を摂りすぎない](/nutri/atopic/#atopi8)
+    - [副腎を強くしましょう](/nutri/atopic/#atopi9)
+    - [ヒスタミンを減らしましょう](/nutri/atopic/#atopi10)
+    - [アトピー性皮膚炎と免疫応答の図表](/nutri/atopic/#atopicb)
+1. ミネラル特集
+    - [セレンの働き、必要な症状、活性酸素の生成と消去の図表](/nutri/serensir/)
+    - [マグネシウムとは、働き、必要な症状](/nutri/magsiryou/)

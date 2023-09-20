@@ -1,0 +1,42 @@
+---
+title: ビタミン・ミネラルを多く含む食品(含有栄養素)
+---
+
+# ビタミン・ミネラルを多く含む食品(含有栄養素)
+
+## 目次
+
+- [ビタミンA](/nutri/aganyuu/)
+- [ビタミンE](/nutri/eganyuu/)
+- [ビタミンD](/nutri/dganyuu/)
+- [ビタミンK](/nutri/bkganyuu/)
+- [ビタミンC](/nutri/cganyuu/)
+- [ビタミンB1](/nutri/b1ganyuu/)
+- [ビタミンB2](/nutri/b2ganyuu/)
+- [ビタミンB3](/nutri/b3ganyuu/)
+- [ビタミンB5](/nutri/b5ganyuu/)
+- [ビタミンB6](/nutri/b6ganyuu/)
+- [ビタミンB12](/nutri/b12ganyu/)
+- [葉酸](/nutri/yousanga/)
+- [ビオチン](/nutri/biotinga/)
+- [CoQ](/nutri/coqganyu/)
+- [コリン](/nutri/colingan/)
+- [イノシトール](/nutri/inosigan/)
+- [カルシウム](/nutri/carugany/)
+- [マグネシウム](/nutri/magganyu/)
+- [カリウム](/nutri/karigany/)
+- [亜鉛](/nutri/aenganyu/)
+- [鉄](/nutri/tetugany/)
+- [銅](/nutri/douganyu/)
+- [クロム](/nutri/cromugan/)
+- [マンガン](/nutri/mangagan/)
+- [ヨード](yo-/nutri/dogan/)
+- [セレン](/nutri/serengan/)
+- [モリブデン](/nutri/moribuga/)
+- [バナジウム](/nutri/vanagany/)
+- [食物繊維](/nutri/senigany/)
+- [ケイ素](/nutri/keisogan/)
+- [ホウ素](/nutri/housogan/)
+- [ゲルマニウム](/nutri/gerumaga/)
+
+(※1食分当たり・五訂食品成分表準拠)
