@@ -7,10 +7,10 @@ menu:
 
 #### 2006世界らん展
 
-1. [日本大賞はマスデバリア](2006ranten/)
-1. [パフィオペディラム](2006paphio/)
-1. [カトレア](2006cattleya/)
-1. [リカステ](2006lycaste11/)  
+1. [日本大賞はマスデバリア](/flowers/2006ranten/)
+1. [パフィオペディラム](/flowers/2006paphio/)
+1. [カトレア](/flowers/2006cattleya/)
+1. [リカステ](/flowers/2006lycaste11/)
 
 ## フォトギャラリー
 
@@ -80,12 +80,12 @@ menu:
 1. [パフィオペディラム2](paphiopedilum2/)
 1. [ファレノプシス](phalaenopsis4/)
 1. [デンドロビウム](dendrobiumnew/)
-1. [リカステ](lycasteNew/)  
+1. [リカステ](lycasteNew/)
 
 #### その他
 
 - ぼたん
-  - [上野公園ぼたん展](harubotan16/)  
+  - [上野公園ぼたん展](harubotan16/)
 - バラ
   - [日本橋高島屋バラ展](takasimayabaraten/)
   - [明治、大正期の車](oldcar/)

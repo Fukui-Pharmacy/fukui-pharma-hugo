@@ -1,7 +1,7 @@
 ---
 title: "2004世界らん展(1): 日本大賞は胡蝶蘭（ファレノプシス）"
 ---
-![](2004rantenkaizyou.jpg)
+![](/images/flowers/2004rantenkaizyou.jpg)
 ![](/images/flowers/2004taisyou2.jpg)
 ![](/images/flowers/a1ogws.jpg)
 ![](/images/flowers/a1ogrwd.jpg)
