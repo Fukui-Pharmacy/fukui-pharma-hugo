@@ -1,5 +1,7 @@
 ---
 title: 免疫とは——免疫を受け持つ細胞
+aliases:
+  - /atopic/meneki.htm
 ---
 
 # 免疫とは——免疫を受け持つ細胞

@@ -1,6 +1,8 @@
 ---
 title: アトピー性皮膚炎の栄養療法
 menuTitle: アトピーと免疫
+aliases:
+  - /atopic/atopic.htm
 ---
 
 # アトピー性皮膚炎(AD)の栄養療法

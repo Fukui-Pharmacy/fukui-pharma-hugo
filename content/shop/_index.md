@@ -1,6 +1,8 @@
---- 
+---
 title: ショップ
---- 
+aliases:
+  - /order.html
+---
 
 ## メニュー
 
@@ -8,34 +10,34 @@ title: ショップ
 
 <!--img src="kakaku.gif"-->
 <table class="price_table">
-	<tbody>
-		<tr>
-			<th>品名</th>
-			<th>容量</th>
-			<th>価格(税込・円)</th>
-			<th>特徴</th>
-		</tr>
-		<tr>
-			<td rowspan="2">ベータグルカン</td>
-			<td>30カプセル</td>
-			<td>7500円</td>
-			<td rowspan="2">パン酵母食品、免疫の栄養</td>
-		</tr>
-		<tr>
-			<td>100カプセル</td>
-			<td>22500円</td>
-		</tr>
-		<tr>
-			<td colspan="2">福井透『新版 薬剤師がすすめるビタミン・ミネラルのとり方』、丸善(新版2010年発行)</td>
-			<td><a href="https://www.amazon.co.jp/dp/4621301446" target="_top">amazonで購入</a> <a href="https://www.maruzen-publishing.co.jp/item/b293916.html" target="_top">出版者サイトから購入</a></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td colspan="2">福井透『薬剤師がすすめるビタミン・ミネラルの使い方 第2版』、丸善(第2版2001年発行)</td>
-			<td><a href="https://www.amazon.co.jp/dp/4621301306" target="_top">amazonで購入</a> <a href="https://www.maruzen-publishing.co.jp/item/b295285.html" target="_top">出版者サイトから購入</a></td>
-			<td></td>
-		</tr>
-	</tbody>
+ <tbody>
+  <tr>
+   <th>品名</th>
+   <th>容量</th>
+   <th>価格(税込・円)</th>
+   <th>特徴</th>
+  </tr>
+  <tr>
+   <td rowspan="2">ベータグルカン</td>
+   <td>30カプセル</td>
+   <td>7500円</td>
+   <td rowspan="2">パン酵母食品、免疫の栄養</td>
+  </tr>
+  <tr>
+   <td>100カプセル</td>
+   <td>22500円</td>
+  </tr>
+  <tr>
+   <td colspan="2">福井透『新版 薬剤師がすすめるビタミン・ミネラルのとり方』、丸善(新版2010年発行)</td>
+   <td><a href="https://www.amazon.co.jp/dp/4621301446" target="_top">amazonで購入</a> <a href="https://www.maruzen-publishing.co.jp/item/b293916.html" target="_top">出版者サイトから購入</a></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td colspan="2">福井透『薬剤師がすすめるビタミン・ミネラルの使い方 第2版』、丸善(第2版2001年発行)</td>
+   <td><a href="https://www.amazon.co.jp/dp/4621301306" target="_top">amazonで購入</a> <a href="https://www.maruzen-publishing.co.jp/item/b295285.html" target="_top">出版者サイトから購入</a></td>
+   <td></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 注文方法
@@ -95,4 +97,3 @@ title: ショップ
 - 住所: 埼玉県川口市領家3−12−22
 - 電話番号: 048−223−1661 (現在は原則留守電。メールをご利用ください)
 - ウェブサイトのアドレス: [https://fukui-pharma.com/](https://fukui-pharma.com/)
-
