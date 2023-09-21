@@ -2,9 +2,7 @@
 title: 2004世界らん展１
 ---ファレノプシス
 
-<BODY BGCOLOR="f5deb3">
-<FONT SIZE="3" color="red">
-ファレノプシス
+# ファレノプシス
 
 ![](/images/photos/flowers/kotyouran1.jpg)
 ![](/images/photos/flowers/b1ophumg.jpg)

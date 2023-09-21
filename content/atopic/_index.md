@@ -6,17 +6,17 @@ menuTitle: アトピーと免疫
 # アトピー性皮膚炎(AD)の栄養療法
 
 1. アトピー性皮膚炎と栄養素の関係
-    1. [アトピー性皮膚炎の特徴](/images/atopic/#atopi1)
-    1. [粘膜と皮膚の不調](/images/atopic/#atopi2)
-    1. [消化不十分の蛋白質が抗原となりやすい](/images/atopic/#atopi3)
-    1. [免疫の不調](/images/atopic/#atopi4)
-    1. [マクロファージの活性化](/images/atopic/#atopi5)
-    1. [プロスタグランジンE2を減らす](/images/atopic/#atopi6)
-    1. [プロスタグランジンE3を増やす](/images/atopic/#atopi7)
-    1. [砂糖を摂りすぎない](/images/atopic/#atopi8)
-    1. [副腎を強くしましょう](/images/atopic/#atopi9)
-    1. [ヒスタミンを減らしましょう](/images/atopic/#atopi10)
-1. アトピー性皮膚炎と免疫応答の図表](/images/atopic/#atopicb)
+    1. [アトピー性皮膚炎の特徴](#atopi1)
+    1. [粘膜と皮膚の不調](#atopi2)
+    1. [消化不十分の蛋白質が抗原となりやすい](#atopi3)
+    1. [免疫の不調](#atopi4)
+    1. [マクロファージの活性化](#atopi5)
+    1. [プロスタグランジンE2を減らす](#atopi6)
+    1. [プロスタグランジンE3を増やす](#atopi7)
+    1. [砂糖を摂りすぎない](#atopi8)
+    1. [副腎を強くしましょう](#atopi9)
+    1. [ヒスタミンを減らしましょう](#atopi10)
+1. アトピー性皮膚炎と免疫応答の図表](#atopicb)
 
 ## アトピー性皮膚炎と栄養素の関係
 
