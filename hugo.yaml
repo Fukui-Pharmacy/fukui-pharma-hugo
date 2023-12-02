@@ -1,0 +1,70 @@
+title: 福井薬局
+author: 福井透
+titleSeparator: |
+
+theme:
+  - github.com/google/docsy
+sectionPagesMenu: main
+
+module:
+  proxy: direct
+  hugoVersion:
+    extended: true
+    min: 0.73.0
+  imports:
+    - path: github.com/google/docsy
+      disable: false
+    - path: github.com/google/docsy/dependencies
+      disable: false
+
+hasCJKLanguage: true
+summaryLength: 120
+params:
+  sidebar:
+    single: left
+    home: left
+    list: left
+    widgets:
+      - taglist
+      - categories
+      - search
+  logo:
+    image: images/fukui-pharmacy-logo.gif
+    title: 福井薬局
+    subtitle: ビタミン・ミネラル・サプリメント
+
+languageCode: ja-jp
+DefaultContentLanguage: ja
+
+outputs:
+  home:
+    - HTML
+    - JSON
+  page:
+    - HTML
+    - JSON
+  section:
+    - HTML
+    - JSON
+
+Menus:
+  main:
+    - name: スキンケア
+      pageRef: /skincare
+      weight: 2
+  footer:
+    - name: お問い合わせ
+      pageRef: /contact
+      weight: 100
+    - name: 福井薬局
+      pageRef: /about
+      weight: 100
+
+
+
+security:
+  enableInlineShortcodes: false
+
+services:
+  googleAnalytics:
+    ID: G-MEASUREMENT_ID
