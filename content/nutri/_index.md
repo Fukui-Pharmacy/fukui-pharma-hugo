@@ -2,7 +2,10 @@
 title: ビタミン・ミネラル
 menuTitle: 'ビタミン・ミネラルの働き'
 url: '/nutri/'
-weight: 10
+menu:
+  - main
+  - side
+  - footer
 ---
 
 1. **健康を維持**したり、**病気の回復**にはなぜ[ビタミン・ミネラルが必要](/nutri/vitasi2/)なのでしょうか？

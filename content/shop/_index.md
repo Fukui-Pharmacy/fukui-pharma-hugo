@@ -1,7 +1,5 @@
 ---
 title: ショップ
-aliases:
-  - /order.html
 ---
 
 ## メニュー
